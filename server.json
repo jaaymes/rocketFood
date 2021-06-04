@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "image": "https://static-images.ifood.com.br/image/upload/t_high/webapp/loop/dish-one.png",
+      "name": "Prato de Comida",
+      "price": "20",
+      "description": "Arroz, Feijão e Ovo",
+      "available": true,
+      "id": 1
+    }
+  ]
+}
